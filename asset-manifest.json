@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://landreribeiro.github.io/csb-uxu1b/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://landreribeiro.github.io/csb-uxu1b/static/js/main.60faa01d.chunk.js",
+    "main.js.map": "https://landreribeiro.github.io/csb-uxu1b/static/js/main.60faa01d.chunk.js.map",
+    "runtime-main.js": "https://landreribeiro.github.io/csb-uxu1b/static/js/runtime-main.ae07c918.js",
+    "runtime-main.js.map": "https://landreribeiro.github.io/csb-uxu1b/static/js/runtime-main.ae07c918.js.map",
+    "static/js/2.fe0d0943.chunk.js": "https://landreribeiro.github.io/csb-uxu1b/static/js/2.fe0d0943.chunk.js",
+    "static/js/2.fe0d0943.chunk.js.map": "https://landreribeiro.github.io/csb-uxu1b/static/js/2.fe0d0943.chunk.js.map",
+    "index.html": "https://landreribeiro.github.io/csb-uxu1b/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://landreribeiro.github.io/csb-uxu1b/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fe0d0943.chunk.js.LICENSE.txt": "https://landreribeiro.github.io/csb-uxu1b/static/js/2.fe0d0943.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae07c918.js",
+    "static/js/2.fe0d0943.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.60faa01d.chunk.js"
+  ]
+}
